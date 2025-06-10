@@ -7,9 +7,8 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "WSL 2025 Saquarema Events",
+  title: "WSL Events",
   description: "Find the best events during WSL 2025 in Saquarema",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
