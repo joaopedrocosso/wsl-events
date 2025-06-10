@@ -57,7 +57,7 @@ const rawEventsData = [
     date: "19/jun.",
     artists: "Maru2D + Dj Bertolossi",
     time: "22h",
-    ticketLink: "https://www.guicheweb.com.br/pesquisa/festival-sunset",
+    ticketLink: "https://www.guicheweb.com.br/festival-sunset-maru-2d--dj-bertolossi_41969",
     price: "Pista: R$35 | Lounge Deck (8 Pessoas): R$1500 | Camarote (10 Pessoas): R$2500",
   },
   {
@@ -66,7 +66,7 @@ const rawEventsData = [
     artists: "Festa fechada (50 ingressos)",
     time: "after 23h",
     ticketLink:
-      "https://l.instagram.com/?u=https%3A%2F%2Fwww.ingresse.com%2Fcasa-amare-o-after-de-saquarema%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaclh0FzzWOD2AmDRKE-7v6mGjj_450HQIS1n4EwAageFIpuoM4KgALfu-5e_g_aem_EHjJ0v_Km0lkIEGyKR0RTA&e=AT1lfkjYN7bOl3kZilzRER9MBQamADN8uNRbQFKL37rUF8mHaDHzYrlRGQ4gK6Ozt5HRMsCeL84mrSbCXzC8rh2rd0vhbxNUPTNiSQ",
+      "https://embedstore.ingresse.com/tickets/ingresse.com/event/83182?redirect=true&eventid=83182&scsession=991617557566519591749665&client=new-site&event-name=casa-amare-o-after-de-saquarema&env=",
     price: "R$100",
   },
   {
@@ -75,7 +75,7 @@ const rawEventsData = [
     artists: "orochi",
     time: "22h",
     ticketLink:
-      "https://www.ingresse.com/rio-surf-music-festival-25/?fbclid=PAZXh0bgNhZW0CMTEAAadyFjt3Zlq97AK_DOUc0hEmLPlWAQblr4hmEqo-sfzNVxau6S05Zb2-8wHsGw_aem_v_V3qhQJxA1WFUJhHsdI8g",
+      "https://embedstore.ingresse.com/tickets/ingresse.com/event/80527?redirect=true&eventid=80527&scsession=747565477755744117754577&client=new-site&event-name=rio-surf-music-festival-25&env=",
     price: "Pista: R$160 | Área Premium: R$300",
   },
   {
@@ -100,7 +100,7 @@ const rawEventsData = [
     date: "20/jun.",
     artists: "Thiago Martins",
     time: "22h",
-    ticketLink: "https://www.guicheweb.com.br/pesquisa/festival-sunset",
+    ticketLink: "https://www.guicheweb.com.br/festival-sunset-thiago-martins_41968",
     price: "Pista: R$60 | Lounge Deck (8 Pessoas): R$1500 | Camarote (10 Pessoas): R$2500",
   },
   {
@@ -118,7 +118,7 @@ const rawEventsData = [
     artists: "Banda Erva e Convidados",
     time: "",
     ticketLink:
-      "https://l.instagram.com/?u=https%3A%2F%2Fwww.ingresse.com%2Fcasa-amare-o-after-de-saquarema%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaclh0FzzWOD2AmDRKE-7v6mGjj_450HQIS1n4EwAageFIpuoM4KgALfu-5e_g_aem_EHjJ0v_Km0lkIEGyKR0RTA&e=AT1lfkjYN7bOl3kZilzRER9MBQamADN8uNRbQFKL37rUF8mHaDHzYrlRGQ4gK6Ozt5HRMsCeL84mrSbCXzC8rh2rd0vhbxNUPTNiSQ",
+      "https://embedstore.ingresse.com/tickets/ingresse.com/event/83182?redirect=true&eventid=83182&scsession=991617557566519591749665&client=new-site&event-name=casa-amare-o-after-de-saquarema&env=",
     price: "R$100",
   },
   {
@@ -127,7 +127,7 @@ const rawEventsData = [
     artists: "3030",
     time: "22h",
     ticketLink:
-      "https://www.ingresse.com/rio-surf-music-festival-25/?fbclid=PAZXh0bgNhZW0CMTEAAadyFjt3Zlq97AK_DOUc0hEmLPlWAQblr4hmEqo-sfzNVxau6S05Zb2-8wHsGw_aem_v_V3qhQJxA1WFUJhHsdI8g",
+      "https://embedstore.ingresse.com/tickets/ingresse.com/event/80527?redirect=true&eventid=80527&scsession=747565477755744117754577&client=new-site&event-name=rio-surf-music-festival-25&env=",
     price: "Pista: R$100 | Área Premium: R$180",
   },
   {
@@ -152,7 +152,7 @@ const rawEventsData = [
     date: "21/jun.",
     artists: "Dj Zullu + Vou Zuar",
     time: "22h",
-    ticketLink: "https://www.guicheweb.com.br/pesquisa/festival-sunset",
+    ticketLink: "https://www.guicheweb.com.br/festival-sunset-dj-zullu--vou-zuar_41967",
     price: "Pista: R$60 | Lounge Deck (8 Pessoas): R$1500 | Camarote (10 Pessoas): R$2500",
   },
   {
@@ -161,7 +161,7 @@ const rawEventsData = [
     artists: "samba de praia com zuza + after Dj Micão",
     time: "after 23h",
     ticketLink:
-      "https://l.instagram.com/?u=https%3A%2F%2Fwww.ingresse.com%2Fcasa-amare-o-after-de-saquarema%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaclh0FzzWOD2AmDRKE-7v6mGjj_450HQIS1n4EwAageFIpuoM4KgALfu-5e_g_aem_EHjJ0v_Km0lkIEGyKR0RTA&e=AT1lfkjYN7bOl3kZilzRER9MBQamADN8uNRbQFKL37rUF8mHaDHzYrlRGQ4gK6Ozt5HRMsCeL84mrSbCXzC8rh2rd0vhbxNUPTNiSQ",
+      "https://embedstore.ingresse.com/tickets/ingresse.com/event/83182?redirect=true&eventid=83182&scsession=991617557566519591749665&client=new-site&event-name=casa-amare-o-after-de-saquarema&env=",
     price: "R$300",
   },
   {
@@ -193,7 +193,7 @@ const rawEventsData = [
   {
     instagram: "@viva.sessions",
     date: "22/jun.",
-    artists: "viva.sessions",
+    artists: "Viva Sessions",
     time: "19h",
     ticketLink:
       "https://chat.whatsapp.com/HX3QujdfwN64jYbrRl0X4w?fbclid=PAZXh0bgNhZW0CMTEAAafDR4EcEDshd6vc7DmTn4JhUXfSNPzszrks0Rfped3i7BTyJo_tpIy_d2PxUw_aem_8nZU5g6SnDFQDN2LmCikRQ",
@@ -202,7 +202,7 @@ const rawEventsData = [
   {
     instagram: "@riomaisfestival",
     date: "22/jun.",
-    artists: "matuê e vitin",
+    artists: "Matuê e Vitin",
     time: "15h",
     ticketLink:
       "https://www.guicheweb.com.br/rio-mais-festival-matue_36908?fbclid=PAZXh0bgNhZW0CMTEAAaeif0sBMec8Jeq5RlV6TAIGrOCQ0K8ObEfwp1VoePuXWbecLq_w2mwViGIfUQ_aem_aVIkapTwbbOHz3OprEfCUA",
@@ -258,7 +258,7 @@ const rawEventsData = [
     artists: "Tsunami do BOB",
     time: "after 23h",
     ticketLink:
-      "https://l.instagram.com/?u=https%3A%2F%2Fwww.ingresse.com%2Fcasa-amare-o-after-de-saquarema%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaclh0FzzWOD2AmDRKE-7v6mGjj_450HQIS1n4EwAageFIpuoM4KgALfu-5e_g_aem_EHjJ0v_Km0lkIEGyKR0RTA&e=AT1lfkjYN7bOl3kZilzRER9MBQamADN8uNRbQFKL37rUF8mHaDHzYrlRGQ4gK6Ozt5HRMsCeL84mrSbCXzC8rh2rd0vhbxNUPTNiSQ",
+      "https://embedstore.ingresse.com/tickets/ingresse.com/event/83182?redirect=true&eventid=83182&scsession=991617557566519591749665&client=new-site&event-name=casa-amare-o-after-de-saquarema&env=",
     price: "R$60",
   },
   {
@@ -293,7 +293,7 @@ const rawEventsData = [
     artists: "Jambo Sessions",
     time: "after 23h",
     ticketLink:
-      "https://l.instagram.com/?u=https%3A%2F%2Fwww.ingresse.com%2Fcasa-amare-o-after-de-saquarema%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaclh0FzzWOD2AmDRKE-7v6mGjj_450HQIS1n4EwAageFIpuoM4KgALfu-5e_g_aem_EHjJ0v_Km0lkIEGyKR0RTA&e=AT1lfkjYN7bOl3kZilzRER9MBQamADN8uNRbQFKL37rUF8mHaDHzYrlRGQ4gK6Ozt5HRMsCeL84mrSbCXzC8rh2rd0vhbxNUPTNiSQ",
+      "https://embedstore.ingresse.com/tickets/ingresse.com/event/83182?redirect=true&eventid=83182&scsession=991617557566519591749665&client=new-site&event-name=casa-amare-o-after-de-saquarema&env=",
     price: "R$80",
   },
   {
@@ -345,7 +345,7 @@ const rawEventsData = [
     artists: "conecrew",
     time: "22h",
     ticketLink:
-      "https://www.ingresse.com/rio-surf-music-festival-25/?fbclid=PAZXh0bgNhZW0CMTEAAadyFjt3Zlq97AK_DOUc0hEmLPlWAQblr4hmEqo-sfzNVxau6S05Zb2-8wHsGw_aem_v_V3qhQJxA1WFUJhHsdI8g",
+      "https://embedstore.ingresse.com/tickets/ingresse.com/event/80527?redirect=true&eventid=80527&scsession=747565477755744117754577&client=new-site&event-name=rio-surf-music-festival-25&env=",
     price: "Pista: R$100 | Área Premium: R$180",
   },
   {
@@ -363,7 +363,7 @@ const rawEventsData = [
     artists: "Dagema",
     time: "after 23h",
     ticketLink:
-      "https://l.instagram.com/?u=https%3A%2F%2Fwww.ingresse.com%2Fcasa-amare-o-after-de-saquarema%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaclh0FzzWOD2AmDRKE-7v6mGjj_450HQIS1n4EwAageFIpuoM4KgALfu-5e_g_aem_EHjJ0v_Km0lkIEGyKR0RTA&e=AT1lfkjYN7bOl3kZilzRER9MBQamADN8uNRbQFKL37rUF8mHaDHzYrlRGQ4gK6Ozt5HRMsCeL84mrSbCXzC8rh2rd0vhbxNUPTNiSQ",
+      "https://embedstore.ingresse.com/tickets/ingresse.com/event/83182?redirect=true&eventid=83182&scsession=991617557566519591749665&client=new-site&event-name=casa-amare-o-after-de-saquarema&env=",
     price: "R$110",
   },
   {
@@ -381,7 +381,7 @@ const rawEventsData = [
     artists: "cabelinho",
     time: "22h",
     ticketLink:
-      "https://www.ingresse.com/rio-surf-music-festival-25/?fbclid=PAZXh0bgNhZW0CMTEAAadyFjt3Zlq97AK_DOUc0hEmLPlWAQblr4hmEqo-sfzNVxau6S05Zb2-8wHsGw_aem_v_V3qhQJxA1WFUJhHsdI8g",
+      "https://embedstore.ingresse.com/tickets/ingresse.com/event/80527?redirect=true&eventid=80527&scsession=747565477755744117754577&client=new-site&event-name=rio-surf-music-festival-25&env=",
     price: "Pista: R$100 | Área Premium: R$180",
   },
   {
